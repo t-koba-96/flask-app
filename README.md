@@ -21,8 +21,8 @@
 
 ・Clone this repo:
 
-`$ git clone https://github.com/t-koba-96/flask-heroku-test.git`  
-`$ cd flask-heroku-test`
+`$ git clone https://github.com/t-koba-96/flask-app.git`  
+`$ cd flask-app`
 
 ・Setup virtual environment with venv
 
