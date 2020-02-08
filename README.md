@@ -15,8 +15,7 @@
 [ ＜ Try it here ＞](http://biancaceleste.com/)  
 
 ・Updating with new apps in the future.
-(※ 2020/02/08  
-Due to the lack of resource of virtual machine, I`m not showcasing the flask apps on websites. Check out my [app-page](https://t-koba-96.github.io/section/app/) for other apps. Their are informations for building on your local einvironment.)
+(※ 2020/02/08 : Due to the lack of resource of virtual machine, I`m not showcasing the flask apps on websites. Check out my [app-page](https://t-koba-96.github.io/section/app/) for other apps. Their are informations for building on your local einvironment.)
 
 ## Use it on your local
 
